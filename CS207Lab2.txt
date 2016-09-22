@@ -1,0 +1,7 @@
+RESISTORS
+
+A: Brown, Black, Yellow, Gold = 100,000 +- 5%
+
+B: Brown, Red, Brown, Gold = 120 +-5%
+
+C: Brown, Green, Yellow, Gold = 150,000 +- 5%
